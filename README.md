@@ -106,7 +106,7 @@
 * 准备
 * 编写报告  
 
-审查类型：同事审查，走查(walthrough) ，检验(inspection)
+审查类型：同事审查，走查(walkthrough) ，检验(inspection)
 
 ### 编码标准和规范
 标准的三个重要原则：
